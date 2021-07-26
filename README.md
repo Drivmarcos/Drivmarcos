@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 Eu sou o Marcos, e esse repositório é dedicado a projetos relacionados ao meu curso e a  programação. Bem vindo.
 
 <!--
 **Drivmarcos/Drivmarcos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
